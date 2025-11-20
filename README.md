@@ -2,9 +2,11 @@
 
 Predict the species of butterflies from images using **CNN from scratch** and **ResNet50V2 fine-tuning**.
 
+**You can try it now:** https://butterfly-image-classification.streamlit.app/
+
 ## Dataset
 
-- **Source:** [Kaggle Butterfly Image Classification](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification)  
+- **Source:** [Kaggle Butterfly Image Classification](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification)
 - **Training images:** `Training_set.csv` with labels  
 - **Testing images:** `Testing_set.csv` (to predict labels)  
 - Total classes: 75  
